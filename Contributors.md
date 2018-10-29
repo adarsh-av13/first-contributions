@@ -8263,3 +8263,4 @@
 - [Taylor Houthoofd](https://github.com/TheStrategistNS)
 - [Erin Dormier](https://github.com/erindormier)
 - [Shishir Reddy]((https://github.com/shishir-reddy)
+- [Adarsh Vijay](https://github.com/adarsh-av13)
